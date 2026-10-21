@@ -2,8 +2,16 @@
   "name": "asl-figma-tokens",
   "version": "0.1.0",
   "description": "Extract color and typography styles from Figma files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslStudio/asl-figma-tokens.git"
+  },
+  "homepage": "https://github.com/aslStudio/asl-figma-tokens#readme",
+  "bugs": {
+    "url": "https://github.com/aslStudio/asl-figma-tokens/issues"
+  },
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "asl",
   "engines": {
     "node": ">=20"
   },
